@@ -1,0 +1,8 @@
+{
+  "name": "Dynamic Call Announcement Portal",
+  "description": "A high-performance portal for managing faculty and student call announcements with dynamic, schema-driven form generation and AI-assisted drafting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
